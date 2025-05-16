@@ -18,18 +18,18 @@ This project presents a hybrid AI-driven music recommender system that combines 
 
 **Tech Stack**
 
-**1.** **Languages:** Python
+1. **Languages:** Python
 
-**2.** **Libraries:** TensorFlow, Keras, Scikit-learn, SHAP, Matplotlib, Seaborn, UMAP
+2. **Libraries:** TensorFlow, Keras, Scikit-learn, SHAP, Matplotlib, Seaborn, UMAP
 
-**3.** **Techniques:** Neural Collaborative Filtering, Autoencoder, Content-based filtering, Clustering, SHAP explanations
+3. **Techniques:** Neural Collaborative Filtering, Autoencoder, Content-based filtering, Clustering, SHAP explanations
    
 
 **Project Structure**
 
-**1. datasets:** Raw and processed Spotify data
+1. **datasets:** Raw and processed Spotify data
 
-**2. src:** Python scripts for model building and evaluation
+2. **src:** Python scripts for model building and evaluation
 
 
 **Key Results**
