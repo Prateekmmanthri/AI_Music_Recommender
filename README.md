@@ -28,6 +28,11 @@ This project presents a hybrid AI-driven music recommender system that combines 
 **Project Structure**
 
 1. **datasets:** Raw and processed Spotify data
+   This project uses a Spotify dataset (170 MB) containing user listening history and audio features for music recommendation modeling.
+
+    🔗 [Download the dataset from Google Drive](https://drive.google.com/file/d/1ZACxMdGtM_sAUthRE8m9dvemq9lx0WOP/view?usp=drive_link)
+
+   **Note: You may need to sign in to Google to download the file depending on your sharing settings.**
 
 2. **src:** Python scripts for model building and evaluation
 
